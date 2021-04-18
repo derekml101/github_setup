@@ -1,0 +1,6 @@
+git checkout master
+git pull origin master
+#when new branch is done, merge it
+git merge <new branch>
+#push the merged version to master.
+git push origin master
